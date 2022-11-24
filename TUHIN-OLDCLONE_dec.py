@@ -103,7 +103,7 @@ class Main:
 \033[0;96m    o888o        `YbodP'    o888o   o888o o888o o8o        `8  
 
  > \033[0;92mDEVELOPER     : Mohammad Tuhin Ahmed
- > \033[0;95mFACEBOOK ID   : TUHIN MEER TUHIN
+ > \033[0;95mFACEBOOK ID   : TUHIN AHMMED
  > \033[0;41mWHATSAPP      : 01886750862
  \033[0;96m> YOUTUBE       : Md Tuhin Miah
  > \033[0;97mWARNING       : DONT USE FOR ILLEGAL WORK     
