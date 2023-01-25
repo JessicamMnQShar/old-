@@ -1,6 +1,4 @@
-# decoder by cobra linux command __Tools Owner Nahid Afridy
-# https://github.com/NAHID-AFRIDY/DECODER
-# Python 3.11 ___WhatsApp 01923092304
+
 
 W = '\033[97;1m' 
 R = '\033[91;1m' 
@@ -55,8 +53,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN WHATSAPP >> +923155912839")
-	subprocess.check_output(["am", "start", "https://wa.me/+923155912839"])
+	runtxt("\033[0;92m ADMIN WHATSAPP >> 01886750862")
+	subprocess.check_output(["am", "start", "https://wa.me/01886750862"])
 
 
         
@@ -94,7 +92,7 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print ("""\033[0;92mooooooooooooo ooooo     ooo ooooo   ooooo ooooo ooooo      ooo 
+print ("""\033[0;92mooooooooooooo ooooo     ooo ooooo   ooooo ooooo ooooo      ooo 
 \033[0;91m8'   888   `8 `888'     `8' `888'   `888' `888' `888b.     `8' 
 \033[0;92m       888       888       8   888     888   888   8 `88b.    8  
 \033[0;93m      888       888       8   888ooooo888   888   8   `88b.  8  
